@@ -1,0 +1,11 @@
+local\AbstractEvent$1.class
+local\Shipped.class
+local\config\kafka\KafkaProcessor.class
+local\CustomercenterViewHandler.class
+local\PolicyHandler.class
+local\CustomercenterApplication.class
+local\Customercenter.class
+local\OrderCanceled.class
+local\AbstractEvent.class
+local\CustomercenterRepository.class
+local\Ordered.class
